@@ -1,4 +1,4 @@
-# This repo contains all the practical work for the subject Agile Practices and Design and Analysis of Algorithms 
+# This repo contains all the practical work for the subject Agile Practices, Design and Analysis of Algorithms and Git & GitHub
 
 DESIGN AND ANALYSIS OF ALGORITHMS [[Link]](/DAA)
 
