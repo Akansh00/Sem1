@@ -1,5 +1,6 @@
 # Sem1
 
-https://github.com/Akansh00/DAA
+DESIGN AND ANALYSIS OF ALGORITHMS [[Link]](/https://github.com/Akansh00/DAA)
 
-https://github.com/Akansh00/Agile
+AGILE PRACTICES [[Link]](/https://github.com/Akansh00/Agile)
+
